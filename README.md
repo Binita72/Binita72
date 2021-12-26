@@ -4,5 +4,7 @@
     🔭 I’m currently working on a ML project.
     🌱 I’m currently learning Tableau.
     💬 Ask me about Data Science.
-    😄 Pronouns: She/Her
+    👩‍💻 Consistent Researcher.
+    😄 Pronouns: She/Her.
     ⚡ Fun fact: I am a math genius. 🤫
+    

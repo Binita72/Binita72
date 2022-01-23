@@ -8,4 +8,4 @@
     😄 Pronouns: She/Her.
     ⚡ Fun fact: I am a math genius. 🤫
     
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Binita72 &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Binita72&theme=radical)

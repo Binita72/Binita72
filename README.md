@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-## I'm a Data Scientist, Math guru and a Foodie. 😄
-    🔭 I’m currently working on a ML project.
-    🌱 I’m currently learning Tableau.
-    💬 Ask me about Data Science.
+## I'm a Pythonista, Math guru and a Foodie. 😄
+    🔭 I’m currently working on a Django project.
+    🌱 I’m currently learning Django.
+    💬 Ask me about Python.
     👩‍💻 Consistent Researcher.
     😄 Pronouns: She/Her.
     ⚡ Fun fact: I am a math genius. 🤫
